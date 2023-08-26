@@ -1,9 +1,6 @@
 .text-center{
     text-align: center;
 }
-/* .bg-red{
-    background-color: red; */
-
 .mx-auto{
     margin: auto;
 }
@@ -15,4 +12,7 @@ flex-direction: column;
 }
 .item-center{
     align-items: center;
+}
+button{
+    color:cadetblue;
 }
